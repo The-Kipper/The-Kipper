@@ -1,9 +1,9 @@
 <html>
 <body>
-  <p>My name's Kipper
-I'm a bi teen from Ohio 
-I've been interested in making stuff and coding for a while and just wanna learn more 
-That's it 
-See ya
-</p>
+  <p>My name's Kipper </p>
+  <p>I'm a bi teen from Ohio</p> 
+  <p>I've been interested in making stuff and coding for a while and just wanna learn more</p> 
+  <p>That's it</p> 
+  <p>See ya</p>
+  
 </body>
